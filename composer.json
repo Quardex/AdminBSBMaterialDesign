@@ -1,0 +1,12 @@
+{
+    "name": "quardex/AdminBSB",
+    "description": "AdminBSB Material Design",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andrew Quardex",
+            "email": "quardex@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+}
